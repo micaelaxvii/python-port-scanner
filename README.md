@@ -18,6 +18,7 @@ git clone https://github.com/micaelaxvii/python-port-scanner.git
 - `-p`, `--port_range`: Target port range.
 - `-t`, `--threads`: [Optional] Number of concurrent workers. (default: 10)
 - `-v`, `--verbose`: [Optional] Enable verbose output.
+- `-h`, `--help`: Show manual.
 
 ### Example usage
 
